@@ -1,0 +1,16 @@
+Complaint Text,Fault Type
+Missed flight due to late security check,External
+Airline gate change wasn’t announced,Airline
+I got to airport late,Passenger
+Heavy traffic caused delay to airport,External
+Airline staff delayed boarding,Airline
+Passport control took too long,External
+Bad weather delayed my arrival,External
+Flight gate was changed without notice,Airline
+TSA line was extremely slow,External
+Personal emergency caused delay,Passenger
+Boarding gate closed earlier than announced,Airline
+Flight delayed but no announcements,Airline
+Uber driver took wrong route to airport,External
+I overslept and missed my flight,Passenger
+Security staff was undertrained causing huge lines,External
