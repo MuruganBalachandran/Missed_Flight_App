@@ -43,9 +43,9 @@ Edit
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
-```bash
+```
 git clone https://github.com/your-username/missed-flight-app.git
-bash```
+
 cd missed-flight-app
 2. Install dependencies
 
@@ -57,7 +57,7 @@ python train_model.py
 
 streamlit run app.py
 📊 Example Complaint Inputs
-
+```
 Complaint	Fault Type	Suggested Action
 I was late due to traffic	External	Helpdesk support
 The airline staff delayed boarding	Airline	Free rebooking
