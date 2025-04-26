@@ -44,7 +44,7 @@ Edit
 
 ### 1. Clone the repo
 ```
-git clone https://github.com/your-username/missed-flight-app.git
+git clone https://github.com/your-username/this-repo
 
 cd missed-flight-app
 2. Install dependencies
